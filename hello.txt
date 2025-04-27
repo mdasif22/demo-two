@@ -2,3 +2,6 @@ i am a fix file...
 
 a new bug fixed from master branch..
 third bug from master branch
+
+Third bug fixed from branch1..
+
