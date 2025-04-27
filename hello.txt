@@ -1,2 +1,3 @@
 i am a fix file...
 Another bug fixed.. from branch1..
+Third bug fixed from branch1..
