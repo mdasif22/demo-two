@@ -5,3 +5,7 @@ third bug from master branch
 
 Third bug fixed from branch1..
 
+Another bug fixed.. from branch1..
+Third bug fixed from branch1..
+
+forth bug fixed....
