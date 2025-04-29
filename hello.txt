@@ -1,7 +1,14 @@
 i am a fix file...
+
+a new bug fixed from master branch..
+third bug from master branch
+
+Third bug fixed from branch1..
+
 Another bug fixed.. from branch1..
 Third bug fixed from branch1..
 
 forth bug fixed....
 
 i am in branch1
+fifth bug fixed..
